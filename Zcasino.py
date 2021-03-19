@@ -5,7 +5,7 @@ from math import ceil
 # Déclaration des variables
 argent = 100
 continuer = True
-print("Bienvenue au Zcasino, vous avez actuellement ", argent, "$.")
+print("Bienvenue au Zcasino, vous avez ", argent, "$.")
 
 # On entre la mise
 while continuer :
