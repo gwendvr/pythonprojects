@@ -1,6 +1,6 @@
 # Programme nombre premier
-# date : 12/03/2020
-# auteur : Paul
+# date : 24/03/2021
+# auteur : Gwenaelle
 # initialisations
 
 diviseur = 2
