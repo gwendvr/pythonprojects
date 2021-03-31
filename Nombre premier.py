@@ -23,4 +23,4 @@ while val != 0:
     else:
         print(val, "n'est pas premier")
 
-    int(input("entrez un nombre entier > 1 : (0 pour arrêter) "))
+    val = int(input("entrez un nombre entier > 1 : (0 pour arrêter) "))
